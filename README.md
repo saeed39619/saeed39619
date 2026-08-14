@@ -20,7 +20,7 @@ Current platform directions include:
 Silicura AI is a member of **NVIDIA Inception** and has filed **three U.S. provisional patent applications**.
 
 ## Selected Public Overviews
-
+- [Agentic Drug Development AI](https://github.com/saeed39619/agentic-drug-development-ai-overview)
 - [Agentic Digital Wet Lab AI](https://github.com/saeed39619/agentic-digital-wet-lab-ai-overview)
 - [Agentic Clinical Development AI](https://github.com/saeed39619/agentic-clinical-development-ai-overview)
 - [Agentic Medical Affairs AI](https://github.com/saeed39619/agentic-medical-affairs-ai-overview)
